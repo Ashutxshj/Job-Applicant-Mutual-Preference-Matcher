@@ -1,0 +1,10 @@
+Google: min_gpa=8.5; skills=Python|Machine Learning|SQL; min_experience=2
+Amazon: min_gpa=8.0; skills=Java|AWS|Microservices; min_experience=1
+Facebook: min_gpa=8.2; skills=Python|React|Data Science; min_experience=3
+Apple: min_gpa=8.7; skills=Swift|Objective-C|UI Design; min_experience=2
+Netflix: min_gpa=8.3; skills=Java|Kafka|Cloud; min_experience=2
+Microsoft: min_gpa=8.1; skills=C#|Azure|.NET; min_experience=1
+Adobe: min_gpa=8.0; skills=JavaScript|Photoshop|UI/UX; min_experience=1
+Salesforce: min_gpa=8.4; skills=Apex|Java|Cloud; min_experience=2
+Flipkart: min_gpa=7.8; skills=Java|Android|SQL; min_experience=1
+Swiggy: min_gpa=7.5; skills=Python|Django|API; min_experience=1

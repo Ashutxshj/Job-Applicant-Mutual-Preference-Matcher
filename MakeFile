@@ -1,0 +1,14 @@
+CXX = g++
+CXXFLAGS = -std=c++17 -Wall -I.
+
+SRC = src/main.cpp src/parser.cpp src/matcher.cpp
+OBJ = $(SRC:.cpp=.o)
+TARGET = job_matcher
+
+all: $(TARGET)
+
+$(TARGET): $(OBJ)
+	$(CXX) $(CXXFLAGS) -o $@ $^
+
+clean:
+	rm -f $(TARGET) $(OBJ)
